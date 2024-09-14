@@ -37,17 +37,3 @@ Note : Range of Duty Cycle : 0-100
 
 6) Click on mouse would terminate the program
 
-
-==================================================================
-Authors
-==================================================================
-
-
-NITHEESH MUTHURAJ 
-ASU ID:1213383988
-nitheesh@asu.edu
- 
-REVANTH RAJSHEKAR 
-ASU ID:1213380816
-rmrajash@asu.edu
-
